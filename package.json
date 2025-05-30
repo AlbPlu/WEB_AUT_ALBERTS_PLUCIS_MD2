@@ -1,0 +1,23 @@
+{
+  "name": "web_aut_alberts_plucis_md2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbPlu/WEB_AUT_ALBERTS_PLUCIS_MD2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbPlu/WEB_AUT_ALBERTS_PLUCIS_MD2/issues"
+  },
+  "homepage": "https://github.com/AlbPlu/WEB_AUT_ALBERTS_PLUCIS_MD2#readme",
+  "devDependencies": {
+    "cypress": "^14.4.0"
+  }
+}
